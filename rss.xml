@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dyson Jewellery  Design]]></title>
         <description><![CDATA[Dyson Jewellery  Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dyson-jewellery-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 13:08:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 13:09:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dyson-jewellery-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Jacaranda" platinum, purple Madagascan sapphire and diamond cocktail ring ]]></title>
+            <description><![CDATA[<article><h1>"Jacaranda" platinum, purple Madagascan sapphire and diamond cocktail ring </h1><p>"Jacaranda" platinum, purple Madagascan sapphire and diamond cocktail ring</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55b54502-378a-4859-a164-95d65c92c4e3.png"></article>]]></description>
+            <link>https://thegrid.ai/dyson-jewellery-design/jacaranda-platinum-purple-madagascan-sapphire-and-diamond/index.html</link>
+            <guid isPermaLink="false">f34ef8b1-43a8-4b6b-b266-45df17ef51f4</guid>
+            <pubDate>Sat, 19 Mar 2016 13:08:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/616497f0-b3ee-41d3-9ec7-76f70e64cc40.png">]]></description>
-            <link>undefinedde50499a-d98c-44f0-a3d6-383dae4d7660/index.html</link>
+            <link>https://thegrid.ai/dyson-jewellery-design/de50499a-d98c-44f0-a3d6-383dae4d7660/index.html</link>
             <guid isPermaLink="false">de50499a-d98c-44f0-a3d6-383dae4d7660</guid>
             <pubDate>Sat, 19 Mar 2016 13:08:38 GMT</pubDate>
         </item>
