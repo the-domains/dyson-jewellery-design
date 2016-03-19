@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-19T13:14:06.591Z'
+datePublished: '2016-03-19T13:18:12.858Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: '"Jacaranda " platinum Madagascan purple sapphire'
-dateModified: '2016-03-19T13:12:31.968Z'
+dateModified: '2016-03-19T13:18:05.163Z'
 sourcePath: _posts/2016-03-19-jacaranda-platinum-madagascan-purple-sapphire.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
