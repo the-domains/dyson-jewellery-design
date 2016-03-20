@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-20T08:28:37.694Z'
+datePublished: '2016-03-20T08:28:58.736Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: '"Jacaranda" platinum purple Madagascan sapphire cocktail ring'
-dateModified: '2016-03-20T08:28:21.613Z'
+dateModified: '2016-03-20T08:28:52.844Z'
 sourcePath: _posts/2016-03-20-jacaranda-platinum-purple-madagascan-sapphire-cocktail-rin.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
