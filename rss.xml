@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dyson Jewellery  Design]]></title>
         <description><![CDATA[Dyson Jewellery  Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dyson-jewellery-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 08:30:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 08:30:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dyson-jewellery-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA["Jacaranda" platinum purple Madagascan sapphire cocktail ring]]></title>
             <description><![CDATA[<article><h1>"Jacaranda" platinum purple Madagascan sapphire cocktail ring</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87a8148c-7e58-4f21-b433-ae9b5b866675.png"></article>]]></description>
-            <link>undefinedjacaranda-platinum-purple-madagascan-sapphire-cocktail-rin/index.html</link>
+            <link>https://thegrid.ai/dyson-jewellery-design/jacaranda-platinum-purple-madagascan-sapphire-cocktail-rin/index.html</link>
             <guid isPermaLink="false">b159fcb2-2935-4706-a92e-719f53456fc4</guid>
-            <pubDate>Sun, 20 Mar 2016 08:28:37 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 08:28:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
