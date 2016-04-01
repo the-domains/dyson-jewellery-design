@@ -12,13 +12,13 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.406383
 color:
   brandStrength: 0.6156681
-  lightness: 0.5191489
   saturation: 0.5106383
-  rhythmicContrast: 0.8802719
   brandColors:
     - '#150910'
     - '#F4F0EA'
     - '#6F6D71'
-typography_spectrum: 0.2156021
+  lightness: 0.5191489
+  rhythmicContrast: 0.8802719
